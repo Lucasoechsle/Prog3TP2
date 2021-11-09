@@ -1,0 +1,3 @@
+/home/lucasoechsle/Documentos/Parcial2/ProyectoProg3ColmanBucciOechsle/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/lucasoechsle/Documentos/Parcial2/ProyectoProg3ColmanBucciOechsle/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lucasoechsle/Documentos/Parcial2/ProyectoProg3ColmanBucciOechsle/cmake-build-debug/CMakeFiles/TrabajoFinal.dir
